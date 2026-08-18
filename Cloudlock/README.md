@@ -258,7 +258,7 @@ The repository includes `include/Secrets.example.h` instead, so another develope
 
 ## Author
 
-**Mario Stefan Bizau**  
-Embedded Systems and Computer Engineering Student
+**Bizău Mario Ștefan**  
+Student at the Faculty of Automation and Computers, Systems Engineering at the Politehnica University of Timisoara
 
 Cloudlock was developed as an academic project and expanded as a practical demonstration of ESP32 firmware design, Wi-Fi control, sensor integration, persistent storage, and e-mail alerting.
